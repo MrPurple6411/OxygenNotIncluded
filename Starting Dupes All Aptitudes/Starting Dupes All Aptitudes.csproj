@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>Starting_Dupes_All_Aptitudes</RootNamespace>
+		<AssemblyName>Starting_Dupes_All_Aptitudes</AssemblyName>
+		<OutputPath>$(SolutionDir)Builds\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>NoFloodWranglePoint</RootNamespace>
+		<AssemblyName>NoFloodWranglePoint</AssemblyName>
+		<OutputPath>$(SolutionDir)Builds\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>

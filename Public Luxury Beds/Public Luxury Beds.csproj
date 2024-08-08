@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>Public_Luxury_Beds</RootNamespace>
+		<AssemblyName>Public_Luxury_Beds</AssemblyName>
+		<OutputPath>$(SolutionDir)Builds\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>

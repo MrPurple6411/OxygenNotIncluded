@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>Single_Dupe_Start</RootNamespace>
+		<AssemblyName>Single_Dupe_Start</AssemblyName>
+		<OutputPath>$(SolutionDir)Builds\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>
