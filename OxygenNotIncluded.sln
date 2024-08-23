@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starting Dupes All Aptitude
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapRevealer", "MapRevelaer\MapRevealer.csproj", "{997AC381-3E14-4484-89C8-1F918FDDF04B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperAETN", "HyperAETN\HyperAETN.csproj", "{99BD4D89-978F-41FD-AE09-C01B34AF6BD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HyperAETN", "HyperAETN\HyperAETN.csproj", "{99BD4D89-978F-41FD-AE09-C01B34AF6BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResearchIncluded", "ResearchIncluded\ResearchIncluded.csproj", "{36336E9C-8C8E-4119-A26B-E4A80F88C700}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{99BD4D89-978F-41FD-AE09-C01B34AF6BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BD4D89-978F-41FD-AE09-C01B34AF6BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BD4D89-978F-41FD-AE09-C01B34AF6BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36336E9C-8C8E-4119-A26B-E4A80F88C700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36336E9C-8C8E-4119-A26B-E4A80F88C700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36336E9C-8C8E-4119-A26B-E4A80F88C700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36336E9C-8C8E-4119-A26B-E4A80F88C700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

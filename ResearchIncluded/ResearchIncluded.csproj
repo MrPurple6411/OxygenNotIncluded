@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>ResearchIncluded</RootNamespace>
+		<AssemblyName>ResearchIncluded</AssemblyName>
+		<OutputPath>$(SolutionDir)Builds\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>
